@@ -1,14 +1,14 @@
 JustEat.Grad.RecruitmentTest
 ============================
 
-JustEat Grad Recruitment Test, thankyou for taking part !
+Just Eat Grad Recruitment Test, thankyou for taking part !
 
 ### Requirements
 
-Code your solution in C# as a console application (A free version of  Express 2013 for Windows Desktop can be downloaded from here: http://www.visualstudio.com/products/visual-studio-express-vs) <br />
+Code your solution in any language you see fit but please give instructions on how to execute your code and see the output. <br />
 Submit your solution as a zip file
 
-This is a coding test, please read the requirements carefully and make sure your code is Object Orientated and easy to read.
+This is a coding test, please read the requirements carefully and make sure your code is Object Oriented and easy to read.
 
 ### Scenario
 
