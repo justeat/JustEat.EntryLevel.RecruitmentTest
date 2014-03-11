@@ -1,7 +1,7 @@
 JustEat.Grad.RecruitmentTest
 ============================
 
-Just Eat Junior Developer Recruitment Test. Thank you for taking part !
+JUST EAT Junior Developer Recruitment Test. Thank you for taking part !
 
 ### Requirements
 
@@ -12,9 +12,9 @@ Just Eat Junior Developer Recruitment Test. Thank you for taking part !
 
 ### Scenario
 
-Just-Eat wants you to help us with our research into Robotic takeaway delivery !
+JUST EAT wants you to help us with our research into Robotic takeaway delivery !
 The experiment will take place in a very special simple place called takeawaytown, takeawaytown can be represented as an 8x8 Grid (each grid is a mile).
-The Just-Eat delivery Robot (JEBot) needs some help with route finding to ensure that the nearest customer is delivered to first so their takeaway isn't cold,
+The JUST EAT delivery Robot (JEBot) needs some help with route finding to ensure that the nearest customer is delivered to first so their takeaway isn't cold,
 JEBot can only move forward, back left and right (not diagonally).
 Please devise a console application the does the following
 
