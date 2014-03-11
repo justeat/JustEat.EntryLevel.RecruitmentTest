@@ -1,14 +1,14 @@
 JustEat.Grad.RecruitmentTest
 ============================
 
-Just Eat Grad Recruitment Test, thankyou for taking part !
+Just Eat Junior Developer Recruitment Test. Thank you for taking part !
 
 ### Requirements
 
-Code your solution in any language you see fit but please give instructions on how to execute your code and see the output. <br />
-Submit your solution as a zip file
-
-This is a coding test, please read the requirements carefully and make sure your code is Object Oriented and easy to read.
+- Code your solution in any language you see fit but please give instructions on how to execute your code and see the output. <br />
+- Clone our git repository locally and work on your solution
+- In order to avoid bounced emails we would like you to submit your results by uploading the relevant zip file to a shared Google Drive folder. Please send an email to tech.recruitment@just-eat.com with your **valid Google email address** so we can give you the correct upload permissions.
+- This is a coding test, please read the requirements carefully and make sure your code is Object Oriented and easy to read.
 
 ### Scenario
 
