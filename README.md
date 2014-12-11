@@ -1,4 +1,4 @@
-JustEat.Grad.RecruitmentTest
+JustEat.EntryLevel.RecruitmentTest
 ============================
 
 JUST EAT Entry Level Developer Recruitment Test. Thank you for taking part !
