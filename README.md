@@ -1,7 +1,7 @@
 JustEat.Grad.RecruitmentTest
 ============================
 
-JUST EAT Junior Developer Recruitment Test. Thank you for taking part !
+JUST EAT Entry Level Developer Recruitment Test. Thank you for taking part !
 
 ### Requirements
 
